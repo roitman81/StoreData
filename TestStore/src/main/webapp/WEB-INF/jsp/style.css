@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+.link{
+	font-size:50px;
+	color:white;
+	border: 10px red dotted;
+	background : black
+}
+
+.link2{
+	font-size:50px;
+	color:white;
+	border: 1px green dotted;
+	background : black
+}
+
+.t1{
+	border: 1px pink dotted;
+}
